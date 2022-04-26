@@ -1,0 +1,41 @@
+{
+    "requirements": [
+      {
+        "description": "1 - Testa o método construtor",
+        "bonus": false
+      },
+      {
+        "description": "2 - Testa o método retonarDesembarqueHorarioLocalDestino",
+        "bonus": false
+      },
+      {
+        "description": "3 - Testa o método retonarDesembarqueHorarioLocalOrigem",
+        "bonus": false
+      },
+      {
+        "description": "4 - Testa o método construtor da classe viagem",
+        "bonus": false
+      },
+      {
+        "description": "5 - Testa o método retonarDesembarqueHorarioLocalDestino da classe Viagem",
+        "bonus": false
+      },
+      {
+        "description": "6 - Testa o método retornarDuracaoVoo",
+        "bonus": false
+      },
+      {
+        "description": "7 - Testa o método retornarInformacaoViagem",
+        "bonus": false
+      },
+      {
+        "description": "8 - Testa o método retornarTempoVoo",
+        "bonus": false
+      },
+      {
+        "description": "9 - Testa o método retornarInformacaoVoo",
+        "bonus": false
+      }
+    ]
+}
+  
